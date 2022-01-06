@@ -3,6 +3,7 @@ def main():
     print("абоба")
     print("Чуи, мы дома")
     print("А нука ещё")
+    a = 100
 
 
 if __name__ == '__main__':
